@@ -1,0 +1,17 @@
+{
+  "name": "fourfivebase",
+  "version": "1.0.0",
+  "description": "all in one knowledge base with ai",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.2.3",
+    "marked": "^4.0.0"
+  }
+}
